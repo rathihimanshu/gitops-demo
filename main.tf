@@ -1,6 +1,6 @@
 terraform {
   backend "s3" {
-    bucket = "nov23terraformbackend-himanshu"
+    bucket = "giopsdemo-himanshu"
     access_key = "AKIAXYKJQHVOIT2UIU6M"
     secret_key = "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"
     key    = "terraformbitproject.tfstate"
